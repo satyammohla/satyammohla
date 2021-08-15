@@ -9,4 +9,4 @@
 👀I also spent a few months at <a href="https://www.ntu.edu.sg"> NTU</a> &amp; <a href="https://nbs.ntu.edu.sg/Pages/default.aspx"> NBS Singapore</a> as an undergraduate <a href="https://global.ntu.edu.sg/GMP/gemdiscoverer/Special%20Programmes/Pages/TFI--Learn.aspx">Temasek TfLEaRN Scholar</a>.</h4>
 
 💞️ I am now interested in <b>AI in Business, AI for Social Good, AI Policy &amp; Ethics</b> and <b>Remote Sensing</b>.<br>
-📫 Please click <a href="./research.html">here</a> to know more and to view a list of my peer-reviewed publications.
+📫 Please click <a href="https://satyammohla.com/research.html">here</a> to know more and to view a list of my peer-reviewed publications.
