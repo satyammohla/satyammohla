@@ -1,4 +1,4 @@
-🌱 Hi! I am busy imagining AI products & mobility services(CASE/MaaS) around autonomous vehicles of tomorrow, at Value Creation Division, Digital Transformation Supervisory Unit, <a href="https://www.hondarandd.jp/point.php?pid=1268&amp;lang=en">Honda R&amp;D Innovation Lab Akasaka</a><br>
+🌱 Hi! I am busy imagining AI products & mobility services(CASE/MaaS) around autonomous vehicles of tomorrow, at Value Creation Division, Digital Transformation Supervisory Unit, <a href="https://www.hondarandd.jp/point.php?pid=1268&amp;lang=en">Honda Innovation Lab Akasaka</a><br>
 🌱 My work often segues into business strategy, manufacturing/QC process optimisation, and marketing.
 
 
