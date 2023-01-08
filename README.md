@@ -13,4 +13,5 @@
 📫 Please click <a href="https://satyammohla.com/research.html">here</a> to know more and to view a list of my peer-reviewed publications.
 
 
-⛄ If you are looking for the hardware computer scientist, that would be my brother Sidharth at Nvidia.
+⛄ If you are looking for the hardware computer scientist, that would be my brother <a href="https://sidmohla.com/">Sidharth</a> at Nvidia.
+
